@@ -1,0 +1,51 @@
++------------------------------------------+--------------------------------+-------------+-----------+----+
+| Registry name                            | Name                           | Type        | Rarity    | ID |
++------------------------------------------+--------------------------------+-------------+-----------+----+
+| bibliocraft:bibliocraft.deathcompassench | Eternal Compass                | ALL         | VERY_RARE | 23 |
+| bibliocraft:bibliocraft.readingench      | Reading                        | ARMOR_HEAD  | UNCOMMON  | 24 |
+| cofhcore:holding                         | enchantment.cofhcore.holding   | ALL         | UNCOMMON  | 25 |
+| cofhcore:insight                         | enchantment.cofhcore.insight   | DIGGER      | UNCOMMON  | 26 |
+| cofhcore:leech                           | enchantment.cofhcore.leech     | WEAPON      | UNCOMMON  | 27 |
+| cofhcore:multishot                       | enchantment.cofhcore.multishot | BOW         | UNCOMMON  | 28 |
+| cofhcore:smashing                        | enchantment.cofhcore.smashing  | DIGGER      | RARE      | 29 |
+| cofhcore:smelting                        | enchantment.cofhcore.smelting  | DIGGER      | RARE      | 30 |
+| cofhcore:soulbound                       | enchantment.cofhcore.soulbound | ALL         | UNCOMMON  | 31 |
+| cofhcore:vorpal                          | enchantment.cofhcore.vorpal    | WEAPON      | RARE      | 36 |
+| extrautils2:xu.bladerang                 | enchantment.xu.bladerang       | BOOMERANG   | COMMON    | 14 |
+| extrautils2:xu.boomereaperang            | enchantment.xu.boomereaperang  | BOOMERANG   | COMMON    | 15 |
+| extrautils2:xu.burnerang                 | enchantment.xu.burnerang       | BOOMERANG   | COMMON    | 13 |
+| extrautils2:xu.kaboomerang               | enchantment.xu.kaboomerang     | BOOMERANG   | COMMON    | 11 |
+| extrautils2:xu.zoomerang                 | enchantment.xu.zoomerang       | BOOMERANG   | COMMON    | 12 |
+| minecraft:aqua_affinity                  | enchantment.waterWorker        | ARMOR_HEAD  | RARE      |  6 |
+| minecraft:bane_of_arthropods             | enchantment.damage.arthropods  | WEAPON      | UNCOMMON  | 18 |
+| minecraft:binding_curse                  | enchantment.binding_curse      | WEARABLE    | VERY_RARE | 10 |
+| minecraft:blast_protection               | enchantment.protect.explosion  | ARMOR       | RARE      |  3 |
+| minecraft:depth_strider                  | enchantment.waterWalker        | ARMOR_FEET  | RARE      |  8 |
+| minecraft:efficiency                     | enchantment.digging            | DIGGER      | COMMON    | 32 |
+| minecraft:feather_falling                | enchantment.protect.fall       | ARMOR_FEET  | UNCOMMON  |  2 |
+| minecraft:fire_aspect                    | enchantment.fire               | WEAPON      | RARE      | 20 |
+| minecraft:fire_protection                | enchantment.protect.fire       | ARMOR       | UNCOMMON  |  1 |
+| minecraft:flame                          | enchantment.arrowFire          | BOW         | RARE      | 50 |
+| minecraft:fortune                        | enchantment.lootBonusDigger    | DIGGER      | RARE      | 35 |
+| minecraft:frost_walker                   | enchantment.frostWalker        | ARMOR_FEET  | RARE      |  9 |
+| minecraft:infinity                       | enchantment.arrowInfinite      | BOW         | VERY_RARE | 51 |
+| minecraft:knockback                      | enchantment.knockback          | WEAPON      | UNCOMMON  | 19 |
+| minecraft:looting                        | enchantment.lootBonus          | WEAPON      | RARE      | 21 |
+| minecraft:luck_of_the_sea                | enchantment.lootBonusFishing   | FISHING_ROD | RARE      | 61 |
+| minecraft:lure                           | enchantment.fishingSpeed       | FISHING_ROD | RARE      | 62 |
+| minecraft:mending                        | enchantment.mending            | BREAKABLE   | RARE      | 70 |
+| minecraft:power                          | enchantment.arrowDamage        | BOW         | COMMON    | 48 |
+| minecraft:projectile_protection          | enchantment.protect.projectile | ARMOR       | UNCOMMON  |  4 |
+| minecraft:protection                     | enchantment.protect.all        | ARMOR       | COMMON    |  0 |
+| minecraft:punch                          | enchantment.arrowKnockback     | BOW         | RARE      | 49 |
+| minecraft:respiration                    | enchantment.oxygen             | ARMOR_HEAD  | RARE      |  5 |
+| minecraft:sharpness                      | enchantment.damage.all         | WEAPON      | COMMON    | 16 |
+| minecraft:silk_touch                     | enchantment.untouching         | DIGGER      | VERY_RARE | 33 |
+| minecraft:smite                          | enchantment.damage.undead      | WEAPON      | UNCOMMON  | 17 |
+| minecraft:sweeping                       | enchantment.sweeping           | WEAPON      | RARE      | 22 |
+| minecraft:thorns                         | enchantment.thorns             | ARMOR_CHEST | VERY_RARE |  7 |
+| minecraft:unbreaking                     | enchantment.durability         | BREAKABLE   | UNCOMMON  | 34 |
+| minecraft:vanishing_curse                | enchantment.vanishing_curse    | ALL         | VERY_RARE | 71 |
++------------------------------------------+--------------------------------+-------------+-----------+----+
+| Registry name                            | Name                           | Type        | Rarity    | ID |
++------------------------------------------+--------------------------------+-------------+-----------+----+

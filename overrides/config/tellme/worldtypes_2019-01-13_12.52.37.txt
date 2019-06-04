@@ -1,0 +1,14 @@
++------------------------+-----------------------+-----------+---------+----------+
+| Level name             | Display name          | Versioned | Version | ID (GUI) |
++------------------------+-----------------------+-----------+---------+----------+
+| amplified              | AMPLIFIED             |     false |       0 |        3 |
+| customized             | Customized            |     false |       0 |        4 |
+| debug_all_block_states | Debug Mode            |     false |       0 |        5 |
+| default                | Default               |      true |       1 |        0 |
+| default_1_1            | generator.default_1_1 |     false |       0 |        8 |
+| flat                   | Superflat             |     false |       0 |        1 |
+| largeBiomes            | Large Biomes          |     false |       0 |        2 |
+| xu_wall                | Great Wall            |     false |       0 |        6 |
++------------------------+-----------------------+-----------+---------+----------+
+| Level name             | Display name          | Versioned | Version | ID (GUI) |
++------------------------+-----------------------+-----------+---------+----------+

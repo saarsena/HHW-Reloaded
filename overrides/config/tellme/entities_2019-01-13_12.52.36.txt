@@ -1,0 +1,176 @@
++-----------------------+-------------------------------------------+------------------------------+-----+
+| Mod name              | Registry name                             | Entity class name            |  ID |
++-----------------------+-------------------------------------------+------------------------------+-----+
+| BiblioCraft           | bibliocraft:biblioseat                    | EntitySeat                   |   0 |
+| Botania               | botania:babylon_weapon                    | EntityBabylonWeapon          |  17 |
+| Botania               | botania:corporea_spark                    | EntityCorporeaSpark          |  11 |
+| Botania               | botania:doppleganger                      | EntityDoppleganger           |   5 |
+| Botania               | botania:ender_air_bottle                  | EntityEnderAirBottle         |  12 |
+| Botania               | botania:falling_star                      | EntityFallingStar            |  18 |
+| Botania               | botania:flame_ring                        | EntityFlameRing              |   3 |
+| Botania               | botania:magic_landmine                    | EntityMagicLandmine          |   6 |
+| Botania               | botania:magic_missile                     | EntityMagicMissile           |   9 |
+| Botania               | botania:mana_burst                        | EntityManaBurst              |   0 |
+| Botania               | botania:mana_storm                        | EntityManaStorm              |  16 |
+| Botania               | botania:pink_wither                       | EntityPinkWither             |  14 |
+| Botania               | botania:pixie                             | EntityPixie                  |   2 |
+| Botania               | botania:player_mover                      | EntityPlayerMover            |  15 |
+| Botania               | botania:pool_minecart                     | EntityPoolMinecart           |  13 |
+| Botania               | botania:signal_flare                      | EntitySignalFlare            |   1 |
+| Botania               | botania:spark                             | EntitySpark                  |   7 |
+| Botania               | botania:thorn_chakram                     | EntityThornChakram           |  10 |
+| Botania               | botania:thrown_item                       | EntityThrownItem             |   8 |
+| Botania               | botania:vine_ball                         | EntityVineBall               |   4 |
+| Extra Utilities 2     | extrautils2:boomerang                     | EntityBoomerang              |   0 |
+| Extra Utilities 2     | extrautils2:chunkdata                     | EntityChunkData              |   1 |
+| Gravestone Mod        | gravestone:player_ghost                   | EntityGhostPlayer            | 378 |
+| Immersive Engineering | immersiveengineering:chemthrowershot      | EntityChemthrowerShot        |   4 |
+| Immersive Engineering | immersiveengineering:explosive            | EntityIEExplosive            |   7 |
+| Immersive Engineering | immersiveengineering:fluorescenttube      | EntityFluorescentTube        |   8 |
+| Immersive Engineering | immersiveengineering:railgunshot          | EntityRailgunShot            |   5 |
+| Immersive Engineering | immersiveengineering:revolvershot         | EntityRevolvershot           |   0 |
+| Immersive Engineering | immersiveengineering:revolvershotflare    | EntityRevolvershotFlare      |   6 |
+| Immersive Engineering | immersiveengineering:revolvershothoming   | EntityRevolvershotHoming     |   2 |
+| Immersive Engineering | immersiveengineering:revolvershotwolfpack | EntityWolfpackShot           |   3 |
+| Immersive Engineering | immersiveengineering:skylinehook          | EntitySkylineHook            |   1 |
+| Immersive Petroleum   | immersivepetroleum:speedboat              | EntitySpeedboat              |   0 |
+| Minecraft             | minecraft:area_effect_cloud               | EntityAreaEffectCloud        |   3 |
+| Minecraft             | minecraft:armor_stand                     | EntityArmorStand             |  30 |
+| Minecraft             | minecraft:arrow                           | EntityTippedArrow            |  10 |
+| Minecraft             | minecraft:bat                             | EntityBat                    |  65 |
+| Minecraft             | minecraft:blaze                           | EntityBlaze                  |  61 |
+| Minecraft             | minecraft:boat                            | EntityBoat                   |  41 |
+| Minecraft             | minecraft:cave_spider                     | EntityCaveSpider             |  59 |
+| Minecraft             | minecraft:chest_minecart                  | EntityMinecartChest          |  43 |
+| Minecraft             | minecraft:chicken                         | EntityChicken                |  93 |
+| Minecraft             | minecraft:commandblock_minecart           | EntityMinecartCommandBlock   |  40 |
+| Minecraft             | minecraft:cow                             | EntityCow                    |  92 |
+| Minecraft             | minecraft:creeper                         | EntityCreeper                |  50 |
+| Minecraft             | minecraft:donkey                          | EntityDonkey                 |  31 |
+| Minecraft             | minecraft:dragon_fireball                 | EntityDragonFireball         |  26 |
+| Minecraft             | minecraft:egg                             | EntityEgg                    |   7 |
+| Minecraft             | minecraft:elder_guardian                  | EntityElderGuardian          |   4 |
+| Minecraft             | minecraft:ender_crystal                   | EntityEnderCrystal           | 200 |
+| Minecraft             | minecraft:ender_dragon                    | EntityDragon                 |  63 |
+| Minecraft             | minecraft:ender_pearl                     | EntityEnderPearl             |  14 |
+| Minecraft             | minecraft:enderman                        | EntityEnderman               |  58 |
+| Minecraft             | minecraft:endermite                       | EntityEndermite              |  67 |
+| Minecraft             | minecraft:evocation_fangs                 | EntityEvokerFangs            |  33 |
+| Minecraft             | minecraft:evocation_illager               | EntityEvoker                 |  34 |
+| Minecraft             | minecraft:eye_of_ender_signal             | EntityEnderEye               |  15 |
+| Minecraft             | minecraft:falling_block                   | EntityFallingBlock           |  21 |
+| Minecraft             | minecraft:fireball                        | EntityLargeFireball          |  12 |
+| Minecraft             | minecraft:fireworks_rocket                | EntityFireworkRocket         |  22 |
+| Minecraft             | minecraft:furnace_minecart                | EntityMinecartFurnace        |  44 |
+| Minecraft             | minecraft:ghast                           | EntityGhast                  |  56 |
+| Minecraft             | minecraft:giant                           | EntityGiantZombie            |  53 |
+| Minecraft             | minecraft:guardian                        | EntityGuardian               |  68 |
+| Minecraft             | minecraft:hopper_minecart                 | EntityMinecartHopper         |  46 |
+| Minecraft             | minecraft:horse                           | EntityHorse                  | 100 |
+| Minecraft             | minecraft:husk                            | EntityHusk                   |  23 |
+| Minecraft             | minecraft:illusion_illager                | EntityIllusionIllager        |  37 |
+| Minecraft             | minecraft:item                            | EntityItem                   |   1 |
+| Minecraft             | minecraft:item_frame                      | EntityItemFrame              |  18 |
+| Minecraft             | minecraft:leash_knot                      | EntityLeashKnot              |   8 |
+| Minecraft             | minecraft:llama                           | EntityLlama                  | 103 |
+| Minecraft             | minecraft:llama_spit                      | EntityLlamaSpit              | 104 |
+| Minecraft             | minecraft:magma_cube                      | EntityMagmaCube              |  62 |
+| Minecraft             | minecraft:minecart                        | EntityMinecartEmpty          |  42 |
+| Minecraft             | minecraft:mooshroom                       | EntityMooshroom              |  96 |
+| Minecraft             | minecraft:mule                            | EntityMule                   |  32 |
+| Minecraft             | minecraft:ocelot                          | EntityOcelot                 |  98 |
+| Minecraft             | minecraft:painting                        | EntityPainting               |   9 |
+| Minecraft             | minecraft:parrot                          | EntityParrot                 | 105 |
+| Minecraft             | minecraft:pig                             | EntityPig                    |  90 |
+| Minecraft             | minecraft:polar_bear                      | EntityPolarBear              | 102 |
+| Minecraft             | minecraft:potion                          | EntityPotion                 |  16 |
+| Minecraft             | minecraft:rabbit                          | EntityRabbit                 | 101 |
+| Minecraft             | minecraft:sheep                           | EntitySheep                  |  91 |
+| Minecraft             | minecraft:shulker                         | EntityShulker                |  69 |
+| Minecraft             | minecraft:shulker_bullet                  | EntityShulkerBullet          |  25 |
+| Minecraft             | minecraft:silverfish                      | EntitySilverfish             |  60 |
+| Minecraft             | minecraft:skeleton                        | EntitySkeleton               |  51 |
+| Minecraft             | minecraft:skeleton_horse                  | EntitySkeletonHorse          |  28 |
+| Minecraft             | minecraft:slime                           | EntitySlime                  |  55 |
+| Minecraft             | minecraft:small_fireball                  | EntitySmallFireball          |  13 |
+| Minecraft             | minecraft:snowball                        | EntitySnowball               |  11 |
+| Minecraft             | minecraft:snowman                         | EntitySnowman                |  97 |
+| Minecraft             | minecraft:spawner_minecart                | EntityMinecartMobSpawner     |  47 |
+| Minecraft             | minecraft:spectral_arrow                  | EntitySpectralArrow          |  24 |
+| Minecraft             | minecraft:spider                          | EntitySpider                 |  52 |
+| Minecraft             | minecraft:squid                           | EntitySquid                  |  94 |
+| Minecraft             | minecraft:stray                           | EntityStray                  |   6 |
+| Minecraft             | minecraft:tnt                             | EntityTNTPrimed              |  20 |
+| Minecraft             | minecraft:tnt_minecart                    | EntityMinecartTNT            |  45 |
+| Minecraft             | minecraft:vex                             | EntityVex                    |  35 |
+| Minecraft             | minecraft:villager                        | EntityVillager               | 120 |
+| Minecraft             | minecraft:villager_golem                  | EntityIronGolem              |  99 |
+| Minecraft             | minecraft:vindication_illager             | EntityVindicator             |  36 |
+| Minecraft             | minecraft:witch                           | EntityWitch                  |  66 |
+| Minecraft             | minecraft:wither                          | EntityWither                 |  64 |
+| Minecraft             | minecraft:wither_skeleton                 | EntityWitherSkeleton         |   5 |
+| Minecraft             | minecraft:wither_skull                    | EntityWitherSkull            |  19 |
+| Minecraft             | minecraft:wolf                            | EntityWolf                   |  95 |
+| Minecraft             | minecraft:xp_bottle                       | EntityExpBottle              |  17 |
+| Minecraft             | minecraft:xp_orb                          | EntityXPOrb                  |   2 |
+| Minecraft             | minecraft:zombie                          | EntityZombie                 |  54 |
+| Minecraft             | minecraft:zombie_horse                    | EntityZombieHorse            |  29 |
+| Minecraft             | minecraft:zombie_pigman                   | EntityPigZombie              |  57 |
+| Minecraft             | minecraft:zombie_villager                 | EntityZombieVillager         |  27 |
+| Rustic                | rustic:tomato                             | EntityTomato                 |   0 |
+| Thaumcraft            | thaumcraft:alumentum                      | EntityAlumentum              |   6 |
+| Thaumcraft            | thaumcraft:arcanebore                     | EntityArcaneBore             |  18 |
+| Thaumcraft            | thaumcraft:bottletaint                    | EntityBottleTaint            |   9 |
+| Thaumcraft            | thaumcraft:brainyzombie                   | EntityBrainyZombie           |  24 |
+| Thaumcraft            | thaumcraft:causalitycollapser             | EntityCausalityCollapser     |  12 |
+| Thaumcraft            | thaumcraft:cultistcleric                  | EntityCultistCleric          |  33 |
+| Thaumcraft            | thaumcraft:cultistknight                  | EntityCultistKnight          |  32 |
+| Thaumcraft            | thaumcraft:cultistleader                  | EntityCultistLeader          |  22 |
+| Thaumcraft            | thaumcraft:cultistportalgreater           | EntityCultistPortalGreater   |   0 |
+| Thaumcraft            | thaumcraft:cultistportallesser            | EntityCultistPortalLesser    |   1 |
+| Thaumcraft            | thaumcraft:eldritchcrab                   | EntityEldritchCrab           |  34 |
+| Thaumcraft            | thaumcraft:eldritchgolem                  | EntityEldritchGolem          |  21 |
+| Thaumcraft            | thaumcraft:eldritchguardian               | EntityEldritchGuardian       |  31 |
+| Thaumcraft            | thaumcraft:eldritchorb                    | EntityEldritchOrb            |   8 |
+| Thaumcraft            | thaumcraft:eldritchwarden                 | EntityEldritchWarden         |  20 |
+| Thaumcraft            | thaumcraft:fallingtaint                   | EntityFallingTaint           |   5 |
+| Thaumcraft            | thaumcraft:firebat                        | EntityFireBat                |  27 |
+| Thaumcraft            | thaumcraft:fluxrift                       | EntityFluxRift               |   2 |
+| Thaumcraft            | thaumcraft:focuscloud                     | EntityFocusCloud             |  14 |
+| Thaumcraft            | thaumcraft:focusmine                      | EntityFocusMine              |  15 |
+| Thaumcraft            | thaumcraft:focusprojectile                | EntityFocusProjectile        |  13 |
+| Thaumcraft            | thaumcraft:followitem                     | EntityFollowingItem          |   4 |
+| Thaumcraft            | thaumcraft:giantbrainyzombie              | EntityGiantBrainyZombie      |  25 |
+| Thaumcraft            | thaumcraft:golem                          | EntityThaumcraftGolem        |  19 |
+| Thaumcraft            | thaumcraft:golemdart                      | EntityGolemDart              |   7 |
+| Thaumcraft            | thaumcraft:golemorb                       | EntityGolemOrb               |  10 |
+| Thaumcraft            | thaumcraft:grapple                        | EntityGrapple                |  11 |
+| Thaumcraft            | thaumcraft:inhabitedzombie                | EntityInhabitedZombie        |  35 |
+| Thaumcraft            | thaumcraft:mindspider                     | EntityMindSpider             |  30 |
+| Thaumcraft            | thaumcraft:pech                           | EntityPech                   |  29 |
+| Thaumcraft            | thaumcraft:specialitem                    | EntitySpecialItem            |   3 |
+| Thaumcraft            | thaumcraft:spellbat                       | EntitySpellBat               |  28 |
+| Thaumcraft            | thaumcraft:taintacle                      | EntityTaintacle              |  38 |
+| Thaumcraft            | thaumcraft:taintaclegiant                 | EntityTaintacleGiant         |  23 |
+| Thaumcraft            | thaumcraft:taintacletiny                  | EntityTaintacleSmall         |  39 |
+| Thaumcraft            | thaumcraft:taintcrawler                   | EntityTaintCrawler           |  37 |
+| Thaumcraft            | thaumcraft:taintseed                      | EntityTaintSeed              |  41 |
+| Thaumcraft            | thaumcraft:taintseedprime                 | EntityTaintSeedPrime         |  42 |
+| Thaumcraft            | thaumcraft:taintswarm                     | EntityTaintSwarm             |  40 |
+| Thaumcraft            | thaumcraft:thaumslime                     | EntityThaumicSlime           |  36 |
+| Thaumcraft            | thaumcraft:turretadvanced                 | EntityTurretCrossbowAdvanced |  17 |
+| Thaumcraft            | thaumcraft:turretbasic                    | EntityTurretCrossbow         |  16 |
+| Thaumcraft            | thaumcraft:wisp                           | EntityWisp                   |  26 |
+| Thermal Foundation    | thermalfoundation:basalz                  | EntityBasalz                 |   2 |
+| Thermal Foundation    | thermalfoundation:basalz_bolt             | EntityBasalzBolt             |   5 |
+| Thermal Foundation    | thermalfoundation:blitz                   | EntityBlitz                  |   1 |
+| Thermal Foundation    | thermalfoundation:blitz_bolt              | EntityBlitzBolt              |   4 |
+| Thermal Foundation    | thermalfoundation:blizz                   | EntityBlizz                  |   0 |
+| Thermal Foundation    | thermalfoundation:blizz_bolt              | EntityBlizzBolt              |   3 |
+| Totemic               | totemic:bald_eagle                        | EntityBaldEagle              |   3 |
+| Totemic               | totemic:baykok                            | EntityBaykok                 |   1 |
+| Totemic               | totemic:buffalo                           | EntityBuffalo                |   0 |
+| Totemic               | totemic:invis_arrow                       | EntityInvisArrow             |   2 |
++-----------------------+-------------------------------------------+------------------------------+-----+
+| Mod name              | Registry name                             | Entity class name            |  ID |
++-----------------------+-------------------------------------------+------------------------------+-----+

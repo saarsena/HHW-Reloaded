@@ -1,0 +1,11 @@
++--------+------------------+------------------------+-----------------+------------------+------------------------------------------------------------------------+
+|     ID | DimensionType ID | Name                   | shouldLoadSpawn | Currently loaded | WorldProvider class                                                    |
++--------+------------------+------------------------+-----------------+------------------+------------------------------------------------------------------------+
+|      0 |                0 | overworld              |            true |             true | net.minecraft.world.WorldProviderSurface                               |
+|     -1 |               -1 | the_nether             |           false |            false | net.minecraft.world.WorldProviderHell                                  |
+|      1 |                1 | the_end                |           false |            false | net.minecraft.world.WorldProviderEnd                                   |
+| -11325 |           -11325 | Deep Dark              |           false |            false | com.rwtema.extrautils2.dimensions.deep_dark.WorldProviderDeepDark      |
+|  -9999 |            -9999 | ExtraUtils2_Quarry_Dim |            true |             true | com.rwtema.extrautils2.dimensions.workhousedim.WorldProviderSpecialDim |
++--------+------------------+------------------------+-----------------+------------------+------------------------------------------------------------------------+
+|     ID | DimensionType ID | Name                   | shouldLoadSpawn | Currently loaded | WorldProvider class                                                    |
++--------+------------------+------------------------+-----------------+------------------+------------------------------------------------------------------------+

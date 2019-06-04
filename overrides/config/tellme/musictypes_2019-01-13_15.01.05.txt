@@ -1,0 +1,13 @@
++----------+--------------------------+----------+----------+
+| Name     | SoundEvent               | MinDelay | MaxDelay |
++----------+--------------------------+----------+----------+
+| creative | minecraft:music.creative |     1200 |     3600 |
+| credits  | minecraft:music.credits  |        0 |        0 |
+| end      | minecraft:music.end      |     6000 |    24000 |
+| end_boss | minecraft:music.dragon   |        0 |        0 |
+| game     | minecraft:music.game     |    12000 |    24000 |
+| menu     | minecraft:music.menu     |       20 |      600 |
+| nether   | minecraft:music.nether   |     1200 |     3600 |
++----------+--------------------------+----------+----------+
+| Name     | SoundEvent               | MinDelay | MaxDelay |
++----------+--------------------------+----------+----------+

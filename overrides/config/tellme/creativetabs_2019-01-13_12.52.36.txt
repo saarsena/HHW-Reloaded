@@ -1,0 +1,41 @@
++-------+---------------------------------+---------------------------+-------------------------------------------------------------------+
+| Index | Name                            | Translated Name           | Icon Item                                                         |
++-------+---------------------------------+---------------------------+-------------------------------------------------------------------+
+|     0 | buildingBlocks                  | Building Blocks           | [minecraft:brick_block@0 - 'Bricks']                              |
+|     1 | decorations                     | Decoration Blocks         | [minecraft:double_plant@5 - 'Peony']                              |
+|     2 | redstone                        | Redstone                  | [minecraft:redstone@0 - 'Redstone']                               |
+|     3 | transportation                  | Transportation            | [minecraft:golden_rail@0 - 'Powered Rail']                        |
+|     4 | hotbar                          | Saved Toolbars            | [minecraft:bookshelf@0 - 'Bookshelf']                             |
+|     5 | search                          | Search Items              | [minecraft:compass@0 - 'Compass']                                 |
+|     6 | misc                            | Miscellaneous             | [minecraft:lava_bucket@0 - 'Lava Bucket']                         |
+|     7 | food                            | Foodstuffs                | [minecraft:apple@0 - 'Apple']                                     |
+|     8 | tools                           | Tools                     | [minecraft:iron_axe@0 - 'Iron Axe']                               |
+|     9 | combat                          | Combat                    | [minecraft:golden_sword@0 - 'Golden Sword']                       |
+|    10 | brewing                         | Brewing                   | [minecraft:potion@0 - 'Water Bottle']                             |
+|    11 | inventory                       | Survival Inventory        | [minecraft:chest@0 - 'Chest']                                     |
+|    12 | cookingforblockheads            | Cooking for Blockheads    | [cookingforblockheads:recipe_book@1 - 'Cooking for Blockheads I'] |
+|    13 | extrautils2                     | Extra Utilities 2         | [extrautils2:angelblock@0 - 'Angel Block']                        |
+|    14 | Probe                           | The One Probe             | [theoneprobe:probe@0 - 'The One Probe']                           |
+|    15 | immersiveengineering            | Immersive Engineering     | [immersiveengineering:metal_decoration0@0 - 'Copper Coil Block']  |
+|    16 | immersivepetroleum              | Immersive Petroleum       | [forge:bucketfilled@0 - 'Crude Oil Bucket']                       |
+|    17 | harvestcraft                    | itemGroup.harvestcraft    | [harvestcraft:toastsandwichitem@0 - 'Toast Sandwich']             |
+|    18 | rustic.decor                    | Rustic Decorations        | [rustic:vase@0 - 'Pot']                                           |
+|    19 | rustic.farming                  | Rustic Agriculture        | [rustic:olives@0 - 'Olives']                                      |
+|    20 | rustic.alchemy                  | Rustic Alchemy            | [rustic:elixir@0 - 'Elixir of Instant Health']                    |
+|    21 | rusticthaumaturgy.main          | Rustic Thaumaturgy        |                                                                   |
+|    22 | totemic                         | Totemic                   | [totemic:tipi@0 - 'Tipi']                                         |
+|    23 | BiblioCraft                     | BiblioCraft               | [bibliocraft:bookcase@0 - 'Oak Bookcase']                         |
+|    24 | BiblioCraftLights               | BiblioCraft Lighting      | [bibliocraft:lanterngold@0 - 'Fancy Lantern']                     |
+|    25 | botania                         | Botania                   | [botania:lexicon@0 - 'Lexica Botania']                            |
+|    26 | chiselsandbits                  | Chisels & Bits            | [chiselsandbits:chisel_diamond@0 - 'Diamond Chisel']              |
+|    27 | chiselsandbits.Clipboard        | Chisels & Bits Clipboard  | [chiselsandbits:positiveprint@0 - 'Positive Chisel Design']       |
+|    28 | thermalseries.creativeTabBlocks | Thermal Series: Blocks    | [thermalfoundation:storage@8 - 'Block of Mana Infused Metal']     |
+|    29 | thermalseries.creativeTabItems  | Thermal Series: Items     | [thermalfoundation:material@262 - 'Platinum Gear']                |
+|    30 | thermalseries.creativeTabUtils  | Thermal Series: Utilities | [thermalfoundation:tome_lexicon@0 - 'Forge Lexicon']              |
+|    31 | thaumcraft                      | Thaumcraft                | [thaumcraft:goggles@0 - 'Goggles of Revealing']                   |
+|    32 | chiselCreativeTab               | Chisel                    | [chisel:chisel_iron@0 - 'Chisel']                                 |
+|    33 | storagedrawers                  | Storage Drawers           | [storagedrawers:basicdrawers@1 - 'Basic Drawers 1x2']             |
+|    34 | tab.backpacks                   | Backpacks                 | [backpack:backpack@0 - 'Small Backpack']                          |
++-------+---------------------------------+---------------------------+-------------------------------------------------------------------+
+| Index | Name                            | Translated Name           | Icon Item                                                         |
++-------+---------------------------------+---------------------------+-------------------------------------------------------------------+

@@ -1,0 +1,10 @@
++---------------+----+------+--------------+-----------------------+
+| NOTE: The Block ID is for very specific low-level purposes only! |
+| It WILL be different in every world since Minecraft 1.7,         |
+| because they are dynamically allocated by the game!              |
++---------------+----+------+--------------+-----------------------+
+| Registry name | ID | meta | Display name |                 Count |
++---------------+----+------+--------------+-----------------------+
++---------------+----+------+--------------+-----------------------+
+| Registry name | ID | meta | Display name |                 Count |
++---------------+----+------+--------------+-----------------------+
