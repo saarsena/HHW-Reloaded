@@ -151,7 +151,7 @@
 				]
 			}
 		},
-		"platinum": {
+/*		"platinum": {
 			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
@@ -186,7 +186,7 @@
 					1
 				]
 			}
-		},
+		},*/
 		"copper_ocean": {
 			"enabled": "true",
 			"distribution": "uniform",
